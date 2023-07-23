@@ -1,0 +1,1522 @@
+{
+    "http://2023.f1calendar.com/#GP0_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP0_2023_qualifying",
+        "summary": "F1: Qualifying (Bahrain Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-03-04T15:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-03-04T16:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 26.037,
+            "lon": 50.5112
+        },
+        "location": "Sakhir",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "3e7eed19-5f35-44ee-8c48-f7c64ea1f362": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Bahrain Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.962Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP0_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP0_2023_gp",
+        "summary": "F1: Grand Prix (Bahrain Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-03-05T15:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-03-05T17:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 26.037,
+            "lon": 50.5112
+        },
+        "location": "Sakhir",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "f055b5f6-ce93-475d-be46-d2328ce232e0": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Bahrain Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.963Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP1_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP1_2023_qualifying",
+        "summary": "F1: Qualifying (Saudi Arabian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-03-18T17:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-03-18T18:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 21.485811,
+            "lon": 39.192505
+        },
+        "location": "Jeddah",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "ab58532b-47a3-4a28-baa8-f1ef6a2ea01a": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Saudi Arabian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.964Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP1_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP1_2023_gp",
+        "summary": "F1: Grand Prix (Saudi Arabian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-03-19T17:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-03-19T19:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 21.485811,
+            "lon": 39.192505
+        },
+        "location": "Jeddah",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "157411a0-8ec2-489b-8a1b-53129a292307": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Saudi Arabian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.964Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP2_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP2_2023_qualifying",
+        "summary": "F1: Qualifying (Australian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-04-01T05:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-04-01T06:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": -37.8373,
+            "lon": 144.9666
+        },
+        "location": "Melbourne",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "2c369dc8-67b3-4fad-b8be-e1c37c990555": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Australian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.964Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP2_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP2_2023_gp",
+        "summary": "F1: Grand Prix (Australian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-04-02T05:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-04-02T07:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": -37.8373,
+            "lon": 144.9666
+        },
+        "location": "Melbourne",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "26946a9e-3742-4144-bcbf-5a2a1bb53454": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Australian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.964Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP3_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP3_2023_qualifying",
+        "summary": "F1: Qualifying (Azerbaijan Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-04-28T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-04-28T14:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 40.3699,
+            "lon": 49.8433
+        },
+        "location": "Baku",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "35c16d2e-a3fd-49c3-935d-bad9782499ca": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Azerbaijan Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.964Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP3_2023_sprintQualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP3_2023_sprintQualifying",
+        "summary": "F1: Sprint Shootout (Azerbaijan Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-04-29T08:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-04-29T09:15:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 40.3699,
+            "lon": 49.8433
+        },
+        "location": "Baku",
+        "status": "CONFIRMED",
+        "categories": ["Sprint Shootout", "F1"],
+        "c5a4db46-9172-4d79-90fd-813420edc1c3": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint Shootout (Azerbaijan Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.964Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP3_2023_sprint": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP3_2023_sprint",
+        "summary": "F1: Sprint (Azerbaijan Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-04-29T13:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-04-29T14:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 40.3699,
+            "lon": 49.8433
+        },
+        "location": "Baku",
+        "status": "CONFIRMED",
+        "categories": ["Sprint", "F1"],
+        "539dce52-cbc2-415d-a83f-2bdfd4c4c03a": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint (Azerbaijan Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.965Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP3_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP3_2023_gp",
+        "summary": "F1: Grand Prix (Azerbaijan Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-04-30T11:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-04-30T13:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 40.3699,
+            "lon": 49.8433
+        },
+        "location": "Baku",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "c521bbf6-d2c9-44a4-b7ba-966b171f323d": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Azerbaijan Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.965Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP4_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP4_2023_qualifying",
+        "summary": "F1: Qualifying (Miami Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-05-06T20:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-05-06T21:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 25.957764,
+            "lon": -80.238835
+        },
+        "location": "Miami",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "29e3155c-97e0-4a85-a7b7-af25354bbea9": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Miami Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.965Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP4_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP4_2023_gp",
+        "summary": "F1: Grand Prix (Miami Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-05-07T19:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-05-07T21:30:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 25.957764,
+            "lon": -80.238835
+        },
+        "location": "Miami",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "6d01457b-ad29-4d6e-86a8-292ab8f06f61": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Miami Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.965Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP5_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP5_2023_qualifying",
+        "summary": "F1: Qualifying (Monaco Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-05-27T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-05-27T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 43.7338,
+            "lon": 7.4215
+        },
+        "location": "Monte Carlo",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "6e7e3588-6fe1-4a7f-b95c-241fc77ff9a0": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Monaco Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.965Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP5_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP5_2023_gp",
+        "summary": "F1: Grand Prix (Monaco Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-05-28T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-05-28T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 43.7338,
+            "lon": 7.4215
+        },
+        "location": "Monte Carlo",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "219f9714-0d4f-4739-9942-9a0e6d15805b": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Monaco Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP6_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP6_2023_qualifying",
+        "summary": "F1: Qualifying (Spanish Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-06-03T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-06-03T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 41.5638,
+            "lon": 2.2585
+        },
+        "location": "Catalunya",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "6ac4aa90-4417-4fe5-8d64-e9def1629b5d": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Spanish Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP6_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP6_2023_gp",
+        "summary": "F1: Grand Prix (Spanish Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-06-04T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-06-04T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 41.5638,
+            "lon": 2.2585
+        },
+        "location": "Catalunya",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "088a638a-68a9-4ca2-afb2-6d0779ac328b": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Spanish Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP7_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP7_2023_qualifying",
+        "summary": "F1: Qualifying (Canadian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-06-17T20:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-06-17T21:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 45.5034,
+            "lon": -73.5267
+        },
+        "location": "Montreal",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "6f797320-3cec-460c-bd12-83fe7cd07111": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Canadian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP7_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP7_2023_gp",
+        "summary": "F1: Grand Prix (Canadian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-06-18T18:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-06-18T20:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 45.5034,
+            "lon": -73.5267
+        },
+        "location": "Montreal",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "d500742b-93e3-4d3e-a80a-8e5cd161a2eb": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Canadian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP8_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP8_2023_qualifying",
+        "summary": "F1: Qualifying (Austrian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-06-30T15:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-06-30T16:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 47.2225,
+            "lon": 14.7607
+        },
+        "location": "Spielberg",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "1f82fc3a-0da7-4159-8527-45a70d6b29f8": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Austrian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP8_2023_sprintQualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP8_2023_sprintQualifying",
+        "summary": "F1: Sprint Shootout (Austrian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-01T10:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-01T10:45:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 47.2225,
+            "lon": 14.7607
+        },
+        "location": "Spielberg",
+        "status": "CONFIRMED",
+        "categories": ["Sprint Shootout", "F1"],
+        "ca694563-d135-4aaf-a5df-fbb6ab3f719b": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint Shootout (Austrian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP8_2023_sprint": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP8_2023_sprint",
+        "summary": "F1: Sprint (Austrian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-01T14:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-01T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 47.2225,
+            "lon": 14.7607
+        },
+        "location": "Spielberg",
+        "status": "CONFIRMED",
+        "categories": ["Sprint", "F1"],
+        "90039fad-cd18-4b31-852e-675ad6348f7e": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint (Austrian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP8_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP8_2023_gp",
+        "summary": "F1: Grand Prix (Austrian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-02T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-02T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 47.2225,
+            "lon": 14.7607
+        },
+        "location": "Spielberg",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "0bfa6617-35fc-41be-900c-ff50109168f6": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Austrian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP9_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP9_2023_qualifying",
+        "summary": "F1: Qualifying (British Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-08T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-08T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 52.0706,
+            "lon": -1.0174
+        },
+        "location": "Silverstone",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "1f0d4cd0-30ce-4b64-a941-5baedb87b2dd": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (British Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP9_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP9_2023_gp",
+        "summary": "F1: Grand Prix (British Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-09T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-09T16:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 52.0706,
+            "lon": -1.0174
+        },
+        "location": "Silverstone",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "bcd4b86e-a184-4c1e-affd-b2a1f42a1574": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (British Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP10_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP10_2023_qualifying",
+        "summary": "F1: Qualifying (Hungarian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-22T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-22T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 47.583,
+            "lon": 19.2526
+        },
+        "location": "Budapest",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "ddd245f7-07fd-44d5-ba89-c2723c1c28bf": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Hungarian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP10_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP10_2023_gp",
+        "summary": "F1: Grand Prix (Hungarian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-23T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-23T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 47.583,
+            "lon": 19.2526
+        },
+        "location": "Budapest",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "27e56bbf-969a-4afb-81e3-9f7fc3a610c6": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Hungarian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP11_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP11_2023_qualifying",
+        "summary": "F1: Qualifying (Belgian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-28T15:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-28T16:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 50.444,
+            "lon": 5.9687
+        },
+        "location": "Spa-Francorchamps",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "17e3e50b-bf1f-4c4b-a963-b06ce2ada577": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Belgian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP11_2023_sprintQualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP11_2023_sprintQualifying",
+        "summary": "F1: Sprint Shootout (Belgian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-29T10:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-29T10:45:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 50.444,
+            "lon": 5.9687
+        },
+        "location": "Spa-Francorchamps",
+        "status": "CONFIRMED",
+        "categories": ["Sprint Shootout", "F1"],
+        "1caba700-fe53-4223-a87e-7d005d9fbb5a": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint Shootout (Belgian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.966Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP11_2023_sprint": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP11_2023_sprint",
+        "summary": "F1: Sprint (Belgian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-29T14:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-29T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 50.444,
+            "lon": 5.9687
+        },
+        "location": "Spa-Francorchamps",
+        "status": "CONFIRMED",
+        "categories": ["Sprint", "F1"],
+        "e17ebe82-33d4-403b-95d0-46552cd8d025": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint (Belgian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP11_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP11_2023_gp",
+        "summary": "F1: Grand Prix (Belgian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-07-30T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-07-30T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 50.444,
+            "lon": 5.9687
+        },
+        "location": "Spa-Francorchamps",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "9f83996e-3073-478a-a5dd-71cc9f022c5f": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Belgian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP12_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP12_2023_qualifying",
+        "summary": "F1: Qualifying (Dutch Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-08-26T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-08-26T14:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 52.388408,
+            "lon": 4.547122
+        },
+        "location": "Zandvoort",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "9f0ce25a-9e91-43b8-86af-5bd913ff3ac7": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Dutch Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP12_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP12_2023_gp",
+        "summary": "F1: Grand Prix (Dutch Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-08-27T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-08-27T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 52.388408,
+            "lon": 4.547122
+        },
+        "location": "Zandvoort",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "632a9420-1478-44d4-b9d8-8de7a50260fe": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Dutch Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP13_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP13_2023_qualifying",
+        "summary": "F1: Qualifying (Italian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-09-02T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-09-02T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 45.6169,
+            "lon": 9.2825
+        },
+        "location": "Monza",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "f54332e5-1721-4b2f-a0fb-d7597e101d6d": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Italian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP13_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP13_2023_gp",
+        "summary": "F1: Grand Prix (Italian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-09-03T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-09-03T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 45.6169,
+            "lon": 9.2825
+        },
+        "location": "Monza",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "7c9e1918-1d8d-4dbf-bf91-b5d7478795bc": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Italian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP14_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP14_2023_qualifying",
+        "summary": "F1: Qualifying (Singapore Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-09-16T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-09-16T14:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 1.2857,
+            "lon": 103.8575
+        },
+        "location": "Singapore",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "4e7b53d2-e7cc-4440-9cd5-3d7225322899": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Singapore Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP14_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP14_2023_gp",
+        "summary": "F1: Grand Prix (Singapore Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-09-17T12:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-09-17T14:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 1.2857,
+            "lon": 103.8575
+        },
+        "location": "Singapore",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "f0728d7a-3e84-4a35-962b-7875c0599124": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Singapore Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP15_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP15_2023_qualifying",
+        "summary": "F1: Qualifying (Japanese Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-09-23T06:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-09-23T07:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 35.3689,
+            "lon": 138.9256
+        },
+        "location": "Suzuka",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "17416b0e-4fd5-47c8-892b-dec6e2bb446b": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Japanese Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP15_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP15_2023_gp",
+        "summary": "F1: Grand Prix (Japanese Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-09-24T05:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-09-24T07:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 35.3689,
+            "lon": 138.9256
+        },
+        "location": "Suzuka",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "a9c4b11c-e68b-4051-b9b8-0f6c4c545fee": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Japanese Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP16_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP16_2023_qualifying",
+        "summary": "F1: Qualifying (Qatar Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-06T17:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-06T18:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 25.490292,
+            "lon": 51.45303
+        },
+        "location": "Doha",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "4deff8dc-c3de-424b-8f34-e47a7ff7f2a2": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Qatar Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP16_2023_sprintQualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP16_2023_sprintQualifying",
+        "summary": "F1: Sprint Shootout (Qatar Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-07T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-07T13:45:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 25.490292,
+            "lon": 51.45303
+        },
+        "location": "Doha",
+        "status": "CONFIRMED",
+        "categories": ["Sprint Shootout", "F1"],
+        "757b40ba-4871-4d01-aba3-b9157c446a3f": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint Shootout (Qatar Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP16_2023_sprint": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP16_2023_sprint",
+        "summary": "F1: Sprint (Qatar Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-07T17:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-07T18:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 25.490292,
+            "lon": 51.45303
+        },
+        "location": "Doha",
+        "status": "CONFIRMED",
+        "categories": ["Sprint", "F1"],
+        "123e8e45-366d-4cfb-9d65-7db40ab7c039": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint (Qatar Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.967Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP16_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP16_2023_gp",
+        "summary": "F1: Grand Prix (Qatar Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-08T17:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-08T19:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 25.490292,
+            "lon": 51.45303
+        },
+        "location": "Doha",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "eb475898-6b79-4c8f-af45-d29f8d52dc5b": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Qatar Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP17_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP17_2023_qualifying",
+        "summary": "F1: Qualifying (United States Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-20T21:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-20T22:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 30.1328,
+            "lon": -97.6411
+        },
+        "location": "Austin",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "75de67d3-0226-47fe-b6a6-79aeabc50763": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (United States Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP17_2023_sprintQualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP17_2023_sprintQualifying",
+        "summary": "F1: Sprint Shootout (United States Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-21T17:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-21T18:15:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 30.1328,
+            "lon": -97.6411
+        },
+        "location": "Austin",
+        "status": "CONFIRMED",
+        "categories": ["Sprint Shootout", "F1"],
+        "021bb662-6655-4bd4-b7b8-30b4d0d73fb9": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint Shootout (United States Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP17_2023_sprint": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP17_2023_sprint",
+        "summary": "F1: Sprint (United States Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-21T22:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-21T22:30:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 30.1328,
+            "lon": -97.6411
+        },
+        "location": "Austin",
+        "status": "CONFIRMED",
+        "categories": ["Sprint", "F1"],
+        "b850fc53-df78-4e72-b2c6-82bcc9c01c9f": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint (United States Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP17_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP17_2023_gp",
+        "summary": "F1: Grand Prix (United States Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-22T19:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-22T21:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 30.1328,
+            "lon": -97.6411
+        },
+        "location": "Austin",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "363fd79d-ea62-4886-aa11-6f80ce404d1f": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (United States Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP18_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP18_2023_qualifying",
+        "summary": "F1: Qualifying (Mexico City Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-28T21:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-28T22:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 19.4028,
+            "lon": -99.0986
+        },
+        "location": "Mexico City",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "65499865-7a8f-4452-9b00-fdda56e84039": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Mexico City Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP18_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP18_2023_gp",
+        "summary": "F1: Grand Prix (Mexico City Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-10-29T20:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-10-29T22:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 19.4028,
+            "lon": -99.0986
+        },
+        "location": "Mexico City",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "8245d9ad-52be-4da5-8c72-ec8cf4c71dff": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Mexico City Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP19_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP19_2023_qualifying",
+        "summary": "F1: Qualifying (Brazilian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-03T18:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-03T19:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": -23.7014,
+            "lon": -46.6969
+        },
+        "location": "Sao Paulo",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "809a08dc-aa2c-47f2-a7ed-ef49b564f804": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Brazilian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP19_2023_sprintQualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP19_2023_sprintQualifying",
+        "summary": "F1: Sprint Shootout (Brazilian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-04T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-04T14:45:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": -23.7014,
+            "lon": -46.6969
+        },
+        "location": "Sao Paulo",
+        "status": "CONFIRMED",
+        "categories": ["Sprint Shootout", "F1"],
+        "a7ed686c-e0eb-4aef-b8c0-bce3d1ba45f4": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint Shootout (Brazilian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP19_2023_sprint": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP19_2023_sprint",
+        "summary": "F1: Sprint (Brazilian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-04T18:30:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-04T19:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": -23.7014,
+            "lon": -46.6969
+        },
+        "location": "Sao Paulo",
+        "status": "CONFIRMED",
+        "categories": ["Sprint", "F1"],
+        "82acea86-9dd3-42cd-b414-3b22ce20b350": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Sprint (Brazilian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP19_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP19_2023_gp",
+        "summary": "F1: Grand Prix (Brazilian Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-05T17:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-05T19:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": -23.7014,
+            "lon": -46.6969
+        },
+        "location": "Sao Paulo",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "b95caf97-c92e-4ba0-9d97-42345d61db4f": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Brazilian Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP20_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP20_2023_qualifying",
+        "summary": "F1: Qualifying (Las Vegas Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-18T08:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-18T09:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 36.166747,
+            "lon": -115.148708
+        },
+        "location": "Las Vegas",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "8e2afb3a-4906-4290-9304-49d4680774e4": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Las Vegas Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP20_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP20_2023_gp",
+        "summary": "F1: Grand Prix (Las Vegas Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-19T06:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-19T08:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 36.166747,
+            "lon": -115.148708
+        },
+        "location": "Las Vegas",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "add2478b-325a-477a-a30c-58f9163c9a3d": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Las Vegas Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP21_2023_qualifying": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP21_2023_qualifying",
+        "summary": "F1: Qualifying (Abu Dhabi Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-25T14:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-25T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 24.4821,
+            "lon": 54.3482
+        },
+        "location": "Yas Marina",
+        "status": "CONFIRMED",
+        "categories": ["Qualifying", "F1"],
+        "0983c7b7-9f32-4bc5-b92e-99a464a3570e": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Qualifying (Abu Dhabi Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "http://2023.f1calendar.com/#GP21_2023_gp": {
+        "type": "VEVENT",
+        "params": [],
+        "uid": "http://2023.f1calendar.com/#GP21_2023_gp",
+        "summary": "F1: Grand Prix (Abu Dhabi Grand Prix)",
+        "dtstamp": "2023-06-16T20:49:12.000Z",
+        "start": "2023-11-26T13:00:00.000Z",
+        "datetype": "date-time",
+        "end": "2023-11-26T15:00:00.000Z",
+        "sequence": "2023",
+        "geo": {
+            "lat": 24.4821,
+            "lon": 54.3482
+        },
+        "location": "Yas Marina",
+        "status": "CONFIRMED",
+        "categories": ["Grand Prix", "F1"],
+        "de50665c-0a62-4514-aebd-13f5d5601f20": {
+            "type": "VALARM",
+            "params": [],
+            "action": "DISPLAY",
+            "description": "F1: Grand Prix (Abu Dhabi Grand Prix) starts in 30 minutes",
+            "trigger": "-PT30M",
+            "end": "2023-07-24T12:08:13.968Z"
+        },
+        "method": "PUBLISH"
+    },
+    "vcalendar": {
+        "type": "VCALENDAR",
+        "version": "2.0",
+        "calscale": "GREGORIAN",
+        "prodid": "f1calendar.com",
+        "method": "PUBLISH",
+        "PUBLISHED-TTL": "PT1H"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "2.1.0",
+    "checksum": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "googleapis": "105",
+    "lodash": "^4.17.21",
+    "node-cron": "^3.0.2",
+    "node-ical": "^0.16.1",
+    "pino": "^8.14.1"
+  }
+}

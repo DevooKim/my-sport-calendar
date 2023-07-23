@@ -11,9 +11,8 @@ const fs = require("fs");
  * 4-1-a. 캘린더에 존재하면 patch
  * 4-1-b. 캘린더에 존재하지 않으면 insert
  */
-
 class Checksum {
-    #allowKeys = ["f1", "arsenal", "psg","bayer"];
+    #allowKeys = ["f1", "arsenal", "psg", "bayer"];
     constructor(key) {
         if (!this.#allowKeys.includes(key))
             throw new Error(`Invalid key: ${key}`);
